@@ -1,3 +1,4 @@
+#hello ignore file
 *.py[cod]
 log/
 docker-compose.yaml
